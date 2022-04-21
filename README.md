@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigneshactech2015
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me vigneshactech2015@gmail.com
 
