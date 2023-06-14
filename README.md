@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vignesh
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in frontend development
+- 🌱 I’m a ReactJS Expert
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me vigneshactech2015@gmail.com
 
