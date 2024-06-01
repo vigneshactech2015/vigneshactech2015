@@ -3,8 +3,15 @@
 - 🌱 I’m a ReactJS Expert
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me vigneshactech2015@gmail.com
-
-<!---
-vigneshactech2015/vigneshactech2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Docker
+- Kubernetes
+- Redux
+- Linux
+- Shell Scripting
+- Git
+- Azure Devops
