@@ -4,8 +4,7 @@
 <h4>Software Engineer</h4>
 <a>Youtube https://youtube.com/@learnwithvigneshvijayakumar?feature=shared</a>
 <br/>
-<a>Inbox me at vigneshactech2015@gmail.com</a> <br/>
-<a>Linkedin www.linkedin.com/in/vignesh-v-</a>
+
 
 
 <h2>Programming Skills</h2><br/>
